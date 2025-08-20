@@ -47,7 +47,7 @@ to:"security@personalyz.io" AND path:252.44.98.29 OR path:250.24.46.164
 
 When the query is put together it will search for any emails that where sent to security@personalyz.io and that have 252.44.98.29 or 250.24.46.164 in their path.
 
-<img width="676" height="337" alt="image" src="https://github.com/user-attachments/assets/7249ce98-c4b0-4eef-8576-12363289f860" />
+<img width="1513" height="755" alt="Screenshot 2025-07-02 164026" src="https://github.com/user-attachments/assets/86118fc2-d8d7-42c0-9545-7f520cdcfde8" />
 
 # Flag
 
