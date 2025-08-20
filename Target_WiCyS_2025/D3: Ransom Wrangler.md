@@ -19,15 +19,15 @@ Your negotiation skills are now critical to your company's survival. You must es
 
 ### Objectives  
 To successfully complete this challenge, you must:
-1- Verify the Breach: Request and obtain a sample of the allegedly stolen data to verify if a breach actually occurred; look for a specific customer email address as proof (Flag 1)
-2- Negotiate Ransom Reduction: Successfully convince the attacker to reduce the ransom demand from 45 BTC to below 30 BTC (Flag 2: CTF-RAN-XXXX)
-3- Extend the Deadline: Negotiate an extension from the initial 48-hour deadline to 96 hours to give your team more time (Flag 3: CTF-DEA-XXXX)
+1. Verify the Breach: Request and obtain a sample of the allegedly stolen data to verify if a breach actually occurred; look for a specific customer email address as proof (Flag 1)
+2. Negotiate Ransom Reduction: Successfully convince the attacker to reduce the ransom demand from 45 BTC to below 30 BTC (Flag 2: CTF-RAN-XXXX)
+3. Extend the Deadline: Negotiate an extension from the initial 48-hour deadline to 96 hours to give your team more time (Flag 3: CTF-DEA-XXXX)
 
 ### Flag format
 You will need to collect all three flags to complete the challenge:
-•	Flag 1: A specific email address from the stolen data sample (format: name@domain.com)
-•	Flag 2: A verification code for successful ransom reduction (format: CTF-RAN-XXXXXXXX)
-•	Flag 3: A verification code for successful deadline extension (format: CTF-DEA-XXXXXXXX)
+- Flag 1: A specific email address from the stolen data sample (format: name@domain.com)
+- Flag 2: A verification code for successful ransom reduction (format: CTF-RAN-XXXXXXXX)
+- Flag 3: A verification code for successful deadline extension (format: CTF-DEA-XXXXXXXX)
 
 Submit all three flags in the following combined format:
 
@@ -42,7 +42,7 @@ I enjoyed this challenge quite a bit because it was different and made you think
 
 2nd playthough: This time went much better as I gave myself wiggle room to negotiate with. My goal was to come off as calm and collected without seeming like I was trying not to negotiate or desperate. They were able to counter, and I was able to counter back or accept due to my large margins. I was able to get my flags within 11 messages this time. I sent a follow up message just because I wanted to finish off on a good note after fighting for an hour and a half.
 
-### 1st Playthough
+## 1st Playthough
 #### Threat Actor 
 Hi!  
 We stole 50GB of your sensitive company data. This includes personal details of your customers (names, email addresses, etc.) as well as credit card information.  
@@ -117,7 +117,7 @@ We can do at most 35 BTC.
 #### Threat Actor
 Time is running out. 36 BTC. No further reductions.  
 
-## RESET CHAT  
+## Reset Chat and Started 2nd Playthough
 
 #### Threat Actor 
 Hi!  
