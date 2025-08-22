@@ -20,7 +20,7 @@ CTF Portal- https://target.ctfd.io/
 
 
 # Stats
-Placing: 38 out of 879
+Placing: 37th out of 879
 
 Solves: 12 out of 13
 
@@ -45,7 +45,7 @@ Solves:
 | [D1. Mystery Mail](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D1%3A%20Mystery%20Mail.md) | Tier 1 | 100 | July 2nd, 3:41:24 PM |
 | [D2. Not-so-Simple Mail Protocol](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D2%3A%20Not-so-Simple%20Mail%20Protocol.md) | Tier 1 | 100 | July 2nd, 4:39:53 PM |
 | [D3. Ransom Wrangler](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D3%3A%20Ransom%20Wrangler.md) | Tier 1 | 100 | July 2nd, 6:45:11 PM |
-| D4. Trout of Office | Tier 1 | 500 | Unsolved |
+| [D4. Trout of Office](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D4%3A%20Trout%20of%20Office.md) | Tier 1 | 500 | Unsolved |
 | D5. Ahoy, PCAP'n!  | Tier 1 | 300 | July 4th, 4:24:20 PM |
 | D6. Smuggled away! | Tier 1 | 500 | July 7th, 11:24:23 AM |
 | D7. Endpoints and Exfiltration | Tier 1 | 100 | July 7th, 12:24:26 PM |
