@@ -21,9 +21,9 @@ Unfortunately, Erik didn't tell you which repository that .git directory came fr
 
 ### Objectives  
 Into the audit logs! Head over to the Insightful Horizon log dashboard at one of these servers:
-•	https://target1.chals.io
-•	https://target2.chals.io
-•	https://target3.chals.io
+- https://target1.chals.io
+- https://target2.chals.io
+- https://target3.chals.io
 
 You'll want to use the audit-logs index for this challenge.
 
