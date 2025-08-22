@@ -46,14 +46,14 @@ Solves:
 | [D2. Not-so-Simple Mail Protocol](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D2%3A%20Not-so-Simple%20Mail%20Protocol.md) | Tier 1 | 100 | July 2nd, 4:39:53 PM |
 | [D3. Ransom Wrangler](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D3%3A%20Ransom%20Wrangler.md) | Tier 1 | 100 | July 2nd, 6:45:11 PM |
 | [D4. Trout of Office](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D4%3A%20Trout%20of%20Office.md) | Tier 1 | 500 | Unsolved |
-| D5. Ahoy, PCAP'n!  | Tier 1 | 300 | July 4th, 4:24:20 PM |
-| D6. Smuggled away! | Tier 1 | 500 | July 7th, 11:24:23 AM |
-| D7. Endpoints and Exfiltration | Tier 1 | 100 | July 7th, 12:24:26 PM |
-| D8. Shadow Commit | Tier 1 | 100 | July 7th, 5:02:44 PM |
-| D9. Logging for Truth | Tier 1 | 300 | July 21st, 9:52:37 PM |
-| D10. Backup Break-in | Tier 1 | 100 | July 22nd, 12:35:35 AM |
-| D11. Semi-Final Boss | Tier 1 | 300 | July 30th, 1:57:16 PM |
-| D12. Final Boss | Tier 1 | 500 | July 30th, 4:57:33 PM |
+| [D5. Ahoy, PCAP'n!](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D5%3A%20Ahoy%2C%20PCAP'n!.md)  | Tier 1 | 300 | July 4th, 4:24:20 PM |
+| [D6. Smuggled away!](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D6%3A%20Smuggled%20away!.md) | Tier 1 | 500 | July 7th, 11:24:23 AM |
+| [D7. Endpoints and Exfiltration](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D7%3A%20Endpoints%20and%20Exfiltration.md) | Tier 1 | 100 | July 7th, 12:24:26 PM |
+| [D8. Shadow Commit](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D8%3A%20Shadow%20Commit.md) | Tier 1 | 100 | July 7th, 5:02:44 PM |
+| [D9. Logging for Truth](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D9%3A%20Logging%20for%20Truth.md) | Tier 1 | 300 | July 21st, 9:52:37 PM |
+| [D10. Backup Break-in](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D10%3A%20Backup%20Break-in.md) | Tier 1 | 100 | July 22nd, 12:35:35 AM |
+| [D11. Semi-Final Boss](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D11%3A%20Semi-Final%20Boss.md) | Tier 1 | 300 | July 30th, 1:57:16 PM |
+| [D12. Final Boss](https://github.com/jacks-somewhere/CTF_Write_Ups/blob/main/Target_WiCyS_2025/D12%3A%20Final%20Boss.md) | Tier 1 | 500 | July 30th, 4:57:33 PM |
 | D13. Caught! | Tier 1 | 10 | July 30th, 5:04:32 PM |
 
 
