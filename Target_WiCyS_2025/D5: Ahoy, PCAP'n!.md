@@ -114,7 +114,7 @@ If not, recall what the challenge is asking for:
 - The Command-and-Control (C2) IP address of the threat actor (where they are sending the data to; what protocols typically use IP addresses? All of them! But it would be related to the 1st item, so if you've found the hostname from its IP address, use the filters or other features in WireShark to find the related packets and see where they are going to or coming from.)
 
 # Solve
-This one was very hard for me, check out [Rabbit Holes](#Rabbit Holes) to see what I tried.
+This one was very hard for me, check out [Rabbit Holes](#Rabbit-Holes) to see what I tried.
 
 Open the file in Wireshark.
 
