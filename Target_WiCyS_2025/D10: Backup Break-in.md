@@ -29,21 +29,21 @@ It starts with "wicys".
 # Solve
 Following the provided link led to a web portal. In order to get into the website I had to find the password.
 
-I checked the HTML and found the password in Base64.
+Checked the HTML and found the password in Base64.
 
-Website password: WiCys_SecureVault_Challenge_2025!
+  Website password: WiCys_SecureVault_Challenge_2025!
 
-I download the file and clicked though the files.
+Download the only file and clicked though the contents.
 
-I came across a .zip called slack_archive and opened it.
+Came across a .zip called slack_archive and opened it.
 
-I ran a grep command to try and locate the flag.
+Ran a grep command to try and locate the flag.
 
 ```
 Grep -rie ‘password’
 ```
 
-The only result led me to the password!
+The only result was from slack.zip and it led me to the password!
 
 ‘@elesiuta hey, that header includes a password — can you delete that real quick and DM it if needed?",’
 
